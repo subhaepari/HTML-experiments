@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+}
+
+.story-header{
+    background-color: tan;
+}
+.review-header{
+    text-shadow: 2px 2px red;
+}
+
+#bigdeal{
+    font-weight:bold;
+}
